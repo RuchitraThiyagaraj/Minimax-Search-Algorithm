@@ -102,7 +102,7 @@ def minimax(game)
     end
 end
 <hr>PROGRAM</hr>
-```
+
 import time
 
 class Game:
@@ -262,7 +262,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+
 <hr>
 <h2>Sample Input and Output</h2>
 
