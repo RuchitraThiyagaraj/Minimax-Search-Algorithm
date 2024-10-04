@@ -104,7 +104,6 @@ end
 <hr>PROGRAM</hr>
 
 import time
-
 class Game:
     def __init__(self):
         self.initialize_game()
